@@ -1,0 +1,15 @@
+html {
+  background-color: #31E43C;
+  font-family: Lucida Console, monospace, sans-serif;
+}
+h1, h2, h3 {
+  text-align: center;
+}
+nav li {
+  display: inline;
+  text-decoration: none;
+  list-style-type: none;
+}
+nav {
+  text-align: center;
+}
