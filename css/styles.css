@@ -1,0 +1,12 @@
+html {
+  background-color: black;
+  color: #31E43C;
+  text-align: center;
+  font-family: Impact, serif;
+}
+h1 {
+  font-size: 70px;
+}
+nav li {
+  display: inline;
+}
